@@ -110,7 +110,7 @@ if canvas_result.image_data is not None:
         st.write(f"**Confidence: {confidence * 100:.2f}%**")
 
         # User feedback
-        true_label = st.text_input("Enter the correct digit (if the model's prediction is wrong):", "")
+        true_label = st.text_input("Enter the correct digit :", "")
 
         if st.button("Log Correct Label"):
             if true_label.isdigit():
