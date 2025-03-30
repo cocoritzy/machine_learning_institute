@@ -1,6 +1,6 @@
 # MNIST Digit Recognition Web App
 
-**Web App**: [http://37.27.211.254:8501/](http://37.27.211.254:8501/)
+Access the app on: [http://37.27.211.254:8501/](http://37.27.211.254:8501/)
 
 ## Project Overview
 
@@ -18,7 +18,4 @@ This project builds an end-to-end MNIST digit recognition app using PyTorch, Pos
 - **Containerization**: Docker is used to containerize the app, the ML model and PostgreSQL.
 - **Deployment**: The app is deployed on a server.
 
-## Deployment
-
-Access the app on: [http://37.27.211.254:8501/](http://37.27.211.254:8501/)
 
