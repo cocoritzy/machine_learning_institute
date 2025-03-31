@@ -1,6 +1,6 @@
 # MNIST Digit Recognition Web App
 
-Access the app on: [http://37.27.211.254:8501/](http://37.27.211.254:8501/)
+Access the app on: [http://37.27.211.254:8502/](http://37.27.211.254:8502/)
 
 ## Project Overview
 
